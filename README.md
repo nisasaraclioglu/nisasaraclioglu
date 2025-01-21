@@ -1,14 +1,11 @@
-# Hi, I'm Hayrunnisa 👋
+🎓 Computer Engineering student at Kocaeli University (3rd year).  
+💻 Working with Java, Python, and C#.  
+🔒 Interested in cybersecurity and improving my skills in this field.  
 
-- 🎓 3rd-year Computer Engineering Student at **Kocaeli University**.
-- 💻 Skilled in **Java**, **Python**, and **C#**.
-- 🔒 Passionate about **Cybersecurity** and actively working to enhance my skills.
+🌟 Currently:  
+- Developing applications with Java and Python.  
+- Learning more about cybersecurity.  
 
-## 🌟 What I'm Working On:
-- Building applications using Java and Python.
-- Learning advanced topics in cybersecurity.
-- Collaborating on team projects in C#.
-
-## 🌐 Connect with Me:
-- LinkedIn: www.linkedin.com/in/hayrunnisa-saraçlıoğlu
+🌐 Contact:  
+- LinkedIn: [Hayrunnisa Saraçlıoğlu](https://www.linkedin.com/in/hayrunnisa-saraçlıoğlu)  
 - Email: hayrunnisaraclioglu@gmail.com
