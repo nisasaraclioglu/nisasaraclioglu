@@ -10,5 +10,5 @@
 - Collaborating on team projects in C#.
 
 ## 🌐 Connect with Me:
-- LinkedIn: 
+- LinkedIn: https://www.linkedin.com/in/hayrunnisa-saraclioglu/
 - Email: hayrunnisaraclioglu@gmail.com
