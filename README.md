@@ -3,7 +3,7 @@
 🔒 Interested in cybersecurity and improving my skills in this field.  
 
 🌟 Currently:  
-- Developing applications with Java and Python.  
+- Developing applications with C# and Python.  
 - Learning more about cybersecurity.  
 
 🌐 Contact:  
