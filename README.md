@@ -1,5 +1,5 @@
 🎓 Computer Engineering student at Kocaeli University (3rd year).  
-💻 Working with Java, Python, and C#.  
+💻 Working with Java, Python, C#, HTML and CSS.  
 🔒 Interested in cybersecurity and improving my skills in this field.  
 
 🌟 Currently:  
