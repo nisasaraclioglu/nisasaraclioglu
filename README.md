@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Hayrunnisa 👋
 
-<!--
-**nisasaraclioglu/nisasaraclioglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 3rd-year Computer Engineering Student at **Kocaeli University**.
+- 💻 Skilled in **Java**, **Python**, and **C#**.
+- 🔒 Passionate about **Cybersecurity** and actively working to enhance my skills.
 
-Here are some ideas to get you started:
+## 🌟 What I'm Working On:
+- Building applications using Java and Python.
+- Learning advanced topics in cybersecurity.
+- Collaborating on team projects in C#.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect with Me:
+- LinkedIn: 
+- Email: hayrunnisaraclioglu@gmail.com
