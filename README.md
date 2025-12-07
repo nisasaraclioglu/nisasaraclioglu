@@ -1,6 +1,6 @@
-### Hi there! I'm Nisa 👋
+### Hi! I'm Nisa 👋
 
-**"I teach robots to think."** 🤖🧠
+**"I'm learning to think like a robot."** 🤖
 
 ---
 
@@ -14,7 +14,7 @@
 ### 🛠 Tech Stack & Tools
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=python,ros,linux,github,git,html,css,js,flask,vscode,tensorflow" height="40"/>
+<img src="https://skillicons.dev/icons?i=python,ros,ubuntu,html,vscode,c#" height="40"/>
 
 </div>
 
@@ -31,30 +31,27 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="left">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight" height="165"/>
-
-</div>
-
----
-
 ### 🔥 Streak Stats
 
 <div align="left">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nisasaraclioglu&theme=tokyonight" height="170"/>
 
 </div>
 
 ---
 
-### 📫 Contact
-You can reach me via GitHub or connect for collaboration on AI & Robotics projects!
+### 📫 Connect With Me
 
----
+<div align="left">
 
-⭐️ If you like my work, consider giving a star to my repositories!
+<a href="https://www.linkedin.com/in/hayrunnisa-saraçlıoğlu/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+
+<a href="mailto:hayrunnisaraclioglu@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+</a>
+
+</div>
+
