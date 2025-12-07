@@ -5,7 +5,7 @@
 ---
 
 ### 🚀 About Me
-- 4th year Computer Engineering student
+- Kocaeli University Computer Engineering 4th year student
 - Interested in **Robotics**, **ROS2**, **Artificial Intelligence**, and **Python Development**
 - Currently working on ROS2 simulations & AI-powered applications
 
