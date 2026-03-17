@@ -14,7 +14,7 @@
 ### 🛠 Tech Stack & Tools
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=python,ros,ubuntu,html,vscode,c#" height="40"/>
+<img src="https://skillicons.dev/icons?i=python,ros,ubuntu,html,vscode,c#,deeplearning" height="40"/>
 
 </div>
 
