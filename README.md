@@ -1,20 +1,20 @@
 ### Hi! I'm Nisa 👋
 
-**"I'm learning to think like a robot."** 🤖
+*"Teaching machines to see, learn, and reason."*
 
 ---
 
 ### 🚀 About Me
-- Kocaeli University Computer Engineering 4th year student
-- Interested in **Robotics**, **ROS2**, **Artificial Intelligence**, and **Python Development**
-- Currently working on ROS2 simulations & AI-powered applications
+* 🎓 **Computer Engineering Graduate** from Kocaeli University
+* 🤖 Passionate about **Artificial Intelligence**, **Deep Learning**, and **Computer Vision**
+* 💡 Currently developing and optimizing **AI-powered software solutions** and computer vision applications
 
 ---
 
 ### 🛠 Tech Stack & Tools
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=python,ros,ubuntu,html,vscode,c#" height="40"/>
+<img src="https://skillicons.dev/icons?i=python,html,vscode,c#" height="40"/>
 
 </div>
 
